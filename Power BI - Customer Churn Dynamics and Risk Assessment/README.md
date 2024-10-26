@@ -34,6 +34,8 @@ Visualizations
    - Visual: Stacked Column Chart
    - Story: Visualize how Customer Activity (Active or Inactive) and Credit Card Subscription (Have or Don't Have Credit Card) impact churn rates. This can help the manager understand whether inactive customers or those without a credit card are at a higher risk of leaving.
 
+7. Churn by Customer Tenure
+   - Visual: 
 
 Data Sources
 Dataset Name: Bank_Churn.csv
