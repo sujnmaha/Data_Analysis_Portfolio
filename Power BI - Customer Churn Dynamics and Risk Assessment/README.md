@@ -35,7 +35,8 @@ Visualizations
    - Story: Visualize how Customer Activity (Active or Inactive) and Credit Card Subscription (Have or Don't Have Credit Card) impact churn rates. This can help the manager understand whether inactive customers or those without a credit card are at a higher risk of leaving.
 
 7. Churn by Customer Tenure
-   - Visual: 
+   - Visual: Line Chart
+   - Story: Show how customer tenure impacts churn. Do customers with fewer years at the bank churn more? This helps in designing loyalty programs for long-tenure customers.
 
 Data Sources
 Dataset Name: Bank_Churn.csv
