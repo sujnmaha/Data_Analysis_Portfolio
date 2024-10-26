@@ -32,7 +32,7 @@ Visualizations
 
 6. Customer Activity VS Credit Card Subscription VS Customer Churn
    - Visual: Stacked Column Chart
-   - Story: 
+   - Story: Visualize how Customer Activity (Active or Inactive) and Credit Card Subscription (Have or Don't Have Credit Card) impact churn rates. This can help the manager understand whether inactive customers or those without a credit card are at a higher risk of leaving.
 
 
 Data Sources
