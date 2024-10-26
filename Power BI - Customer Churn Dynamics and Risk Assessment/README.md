@@ -1,14 +1,14 @@
-Customer Churn Analysis Dashboard
+# **Customer Churn Analysis Dashboard**
 
-Project Overview
+**Project Overview**
 
 This project provides a comprehensive Power BI dashboard to analyze customer churn based on multiple factors, helping decision-makers understand key churn drivers and identify actionable insights. The dashboard is designed to help assess customer retention risks and make informed decisions to improve customer retention rates.
 
-Purpose
+**Purpose**
 
 The primary goal of this dashboard is to analyze various factors influencing customer churn, such as customer activity, product engagement, and account status. By exploring different scenarios and segments, this tool offers insights into which factors are most correlated with customer attrition, allowing for targeted strategies to retain high-risk customers.
 
-Visualizations
+**Visualizations**
 
 1. Customer Overview
    - Visual: Area Chart
@@ -42,11 +42,12 @@ Visualizations
    - Visual: Tree Map
    - Story: Show the correlation between number of products used by the customers and customer churn. Do customers with fewer product churn more?
 
-Data Source: https://shorturl.at/YyLbS
+**Data Source**: https://shorturl.at/YyLbS
 
-Dataset Name: Bank_Churn.csv
+**Dataset Name**: Bank_Churn.csv
 
-Fields Included:
+**Fields Included**
+
 - CustomerId: A unique identifier for each customer
 - CreditScore: A numerical value representing the customer's credit score
 - Geography: The country where the customer resides (France, Spain or Germany)
@@ -58,7 +59,7 @@ Fields Included:
 - IsActiveMember: Whether the customer is an active member (1 = yes, 0 = no)
 - Exited: Whether the customer has churned (1 = yes, 0 = no)
  
-Key Insights
+**Key Insights**
 
 - Negative Correlation Between Product Count and Churn: Customers with a higher number of products tend to have a lower churn rate.
 - Inactive Members at High Risk: Inactive customers are significantly more likely to churn.
