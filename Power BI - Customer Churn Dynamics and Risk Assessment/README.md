@@ -40,18 +40,24 @@ Visualizations
   
 8. Churn by Number of Products
    - Visual: Tree Map
-   - Story: Show the correlation between number of products subscribed by the customers and customer churn. Do customers with fewer product subscription churn more?
+   - Story: Show the correlation between number of products used by the customers and customer churn. Do customers with fewer product churn more?
 
 Data Sources
+
 Dataset Name: Bank_Churn.csv
 
 Fields Included:
-- Customer ID: Unique identifier for each customer
-- IsActiveMember: Indicates if the customer is actively using services
-- HasCrCard: Shows if the customer holds a credit card
-- NumOfProducts: The number of products a customer has
-- Churn: Indicates if the customer has churned or not
-
+- CustomerId: A unique identifier for each customer
+- CreditScore: A numerical value representing the customer's credit score
+- Geography: The country where the customer resides (France, Spain or Germany)
+- Gender: The customer's gender (Male or Female)
+- Age: The customer's age
+- Tenure: The number of years the customer has been with the bank
+- NumOfProducts: The number of bank products the customer uses (e.g., savings account, credit card)
+- HasCrCard: Whether the customer has a credit card (1 = yes, 0 = no)
+- IsActiveMember: Whether the customer is an active member (1 = yes, 0 = no)
+- Exited: Whether the customer has churned (1 = yes, 0 = no)
+ 
 Key Insights
 - Negative Correlation Between Product Count and Churn: Customers with a higher number of products tend to have a lower churn rate.
 - Inactive Members at High Risk: Inactive customers are significantly more likely to churn, especially those without a credit card.
