@@ -36,7 +36,11 @@ Visualizations
 
 7. Churn by Customer Tenure
    - Visual: Line Chart
-   - Story: Show how customer tenure impacts churn. Do customers with fewer years at the bank churn more? This helps in designing loyalty programs for long-tenure customers.
+   - Story: Show how customer tenure impacts churn. Do customers with fewer years at the bank churn more? This helps in designing loyalty programs or so for long-tenure customers.
+  
+8. Churn by Number of Products
+   - Visual: Tree Map
+   - Story: Show the correlation between number of products subscribed by the customers and customer churn. Do customers with fewer product subscription churn more?
 
 Data Sources
 Dataset Name: Bank_Churn.csv
