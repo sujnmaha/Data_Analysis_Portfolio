@@ -59,6 +59,8 @@ Fields Included:
 - Exited: Whether the customer has churned (1 = yes, 0 = no)
  
 Key Insights
+
 - Negative Correlation Between Product Count and Churn: Customers with a higher number of products tend to have a lower churn rate.
-- Inactive Members at High Risk: Inactive customers are significantly more likely to churn, especially those without a credit card.
+- Inactive Members at High Risk: Inactive customers are significantly more likely to churn.
 - Demographic Variations: Certain age groups or locations show higher churn tendencies, suggesting targeted strategies may be needed.
+- The Bank requires high attention and excellent customer service for new customers at least until the 3rd year of customer acquisition due to high rate of churn at 1st and 3rd year of customer lifecycle.
