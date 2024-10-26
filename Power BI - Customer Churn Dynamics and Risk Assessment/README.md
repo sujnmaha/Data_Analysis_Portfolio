@@ -14,13 +14,24 @@ Visualizations
    - Visual: Area Chart
    - Story: Show the distribution of customers over the three geographical regions - France, Germany and Spain.
   
-2. Customer Churn Overview
+2. Churn by Geographical Region
    - Visual: Bar Chart
    - Story: Identify the regions with the highest churn rates, which can help the manager focus on specific geographies for retention efforts.
 
 3. Churn by Age Group
    - Visual: Histogram
    - Story: Show the distribution of age among churned customers. For instance, are younger or older customers more likely to churn?
+  
+4. Churn Overview
+   - Visual: Donut Chart
+   - Story: Visualize the attrition percentage. This information can create urgency for immediate intervention in retention strategies.
+
+5. Churn by Credit Score
+   - Visual: Line Chart
+   - Story: Depicts the correlation between credit score and customer churn rates. Higher or lower credit scores can be an indicator of financial health and potential churn risk. Understanding this relationship helps identify at-risk customers.
+
+6. Churn
+
 
 Data Sources
 Dataset Name: Bank_Churn.csv
