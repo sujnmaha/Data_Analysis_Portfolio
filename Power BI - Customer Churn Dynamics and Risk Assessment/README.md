@@ -10,9 +10,15 @@ The primary goal of this dashboard is to analyze various factors influencing cus
 
 Visualizations
 
-Customer Overview
-- Visual: Area Chart
-- Story: Shows the distribution of customers over the three geographical regions - France, Germany and Spain.
+1. Customer Overview
+   - Visual: Area Chart
+   - Story: Show the distribution of customers over the three geographical regions - France, Germany and Spain.
+  
+2. Customer Churn Overview
+   - Visual: Bar Chart
+   - Story: Identify the regions with the highest churn rates, which can help the manager focus on specific geographies for retention efforts.
+
+3. 
 
 Data Sources
 Dataset Name: Bank_Churn.csv
