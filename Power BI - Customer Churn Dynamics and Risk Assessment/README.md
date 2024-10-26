@@ -18,7 +18,9 @@ Visualizations
    - Visual: Bar Chart
    - Story: Identify the regions with the highest churn rates, which can help the manager focus on specific geographies for retention efforts.
 
-3. 
+3. Churn by Age Group
+   - Visual: Histogram
+   - Story: Show the distribution of age among churned customers. For instance, are younger or older customers more likely to churn?
 
 Data Sources
 Dataset Name: Bank_Churn.csv
