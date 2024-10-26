@@ -30,7 +30,9 @@ Visualizations
    - Visual: Line Chart
    - Story: Depicts the correlation between credit score and customer churn rates. Higher or lower credit scores can be an indicator of financial health and potential churn risk. Understanding this relationship helps identify at-risk customers.
 
-6. Churn
+6. Customer Activity VS Credit Card Subscription VS Customer Churn
+   - Visual: Stacked Column Chart
+   - Story: 
 
 
 Data Sources
