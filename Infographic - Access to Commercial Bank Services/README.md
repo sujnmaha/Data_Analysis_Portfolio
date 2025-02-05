@@ -27,10 +27,10 @@ The infographic includes the following visual elements:
 
 The data for this infographic is sourced from:
 
-1. Nepal Rastra Bank: Banking and Financial Statistics
-2. Nepal Rastra Bank: Database on Nepalese Economony - Financial Sector
-3. National Statistics Office: National Population and Housing Census 2021
-4. Ministry of Land Management, Cooperatives, and Poverty Alleviation
+1. Nepal Rastra Bank: Banking and Financial Statistics (https://www.nrb.org.np/category/monthly-statistics/?department=bfr)
+2. Nepal Rastra Bank: Database on Nepalese Economony - Financial Sector (https://www.nrb.org.np/database-on-nepalese-economy/financial-sector/)
+3. National Statistics Office: National Population and Housing Census 2021 (https://censusnepal.cbs.gov.np/results/population)
+4. Ministry of Land Management, Cooperatives, and Poverty Alleviation (https://www.dos.gov.np/downloads/nepal-map)
 
 **Key Insights**
 
