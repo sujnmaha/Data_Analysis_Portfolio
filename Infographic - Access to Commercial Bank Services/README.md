@@ -24,6 +24,7 @@ The infographic includes the following visual elements:
 5. Commercial Bank Branch Distribution: A map visualizing the number of commercial bank branches across different provinces in Nepal.
 
 **Data Source**
+
 The data for this infographic is sourced from:
 
 1. Nepal Rastra Bank: Banking and Financial Statistics
