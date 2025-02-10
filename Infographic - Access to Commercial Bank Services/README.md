@@ -32,6 +32,12 @@ The data for this infographic is sourced from:
 3. National Statistics Office: National Population and Housing Census 2021 (https://censusnepal.cbs.gov.np/results/population)
 4. Ministry of Land Management, Cooperatives, and Poverty Alleviation (https://www.dos.gov.np/downloads/nepal-map)
 
+**Tools Used**
+1. Figma: For overall infographic design.
+2. Adobe Illustrator: For finetuning the icons used in the infographic.
+3. Microsoft Excel: For creating data visualizations used in the infographic.
+4. Tableau: For creating data visualizations used in the infographic.
+
 **Key Insights**
 
 1. Decline in the Number of Commercial Banks: The highest count of commercial banks was 32 in 2012, which has now decreased to 20 in 2024 due to mergers and consolidations.
